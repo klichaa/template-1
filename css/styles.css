@@ -1,6 +1,46 @@
-.background-img{
+.header-img{
 	width: 100%;
-	height: 144px;
+	height: 120px;
 	background-size: cover;
 	background-repeat: no repeat;
+}
+.phone-img{
+	position: absolute;
+	top: 37px;
+	right: 350px;
+}
+.background{
+	width: 100%;
+	background-size: cover;
+	background-repeat: no repeat;
+}
+.container{
+	margin: 0 auto;
+	width: 1110px;
+	position: absolute;
+	left: 50%;
+	margin-left: -571px;
+}
+.box{
+	width: 240px;
+	height: 413px;
+	border: 4px solid #E4E4E1;
+	float: left;
+	padding: 25px;
+}
+.number{
+	float: left;
+	width: 29px;
+	height: 34px;
+	background-color: #FFB935;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 23px;
+	vertical-align: middle;
+}
+.h3{
+	text-align: center;
+	width: 150px;
+	float: left;
+	vertical-align: middle;
 }
